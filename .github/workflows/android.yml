@@ -52,7 +52,7 @@ jobs:
           echo "keyAlias=release" >> keystore.properties
           echo "keyPassword=android" >> keystore.properties
 
-      - run:  ./gradlew --no-daemon build
+      - run:  ./gradlew --no-daemon --info build
 
       - uses: android-actions/annotate-lint-results@v1.0.15
         if: ${{ always() }}
