@@ -148,7 +148,7 @@ dependencies {
     implementation("de.westnordost:osmfeatures-android:1.1")
     // talking with the OSM API
     implementation("de.westnordost:osmapi-overpass:1.1")
-    implementation("de.westnordost:osmapi-map:1.2")
+    implementation("de.westnordost:osmapi-map:1.4")
     implementation("de.westnordost:osmapi-changesets:1.2")
     implementation("de.westnordost:osmapi-notes:1.1")
     implementation("de.westnordost:osmapi-user:1.1")
