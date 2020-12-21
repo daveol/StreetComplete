@@ -151,7 +151,7 @@ dependencies {
     implementation("de.westnordost:osmapi-map:1.2")
     implementation("de.westnordost:osmapi-changesets:1.2")
     implementation("de.westnordost:osmapi-notes:1.1")
-    implementation("de.westnordost:osmapi-user:1.1")
+    implementation("de.westnordost:osmapi-user:1.3")
 
     // widgets
     implementation("androidx.viewpager2:viewpager2:1.0.0")
