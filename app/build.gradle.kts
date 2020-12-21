@@ -132,7 +132,7 @@ dependencies {
     implementation("androidx.localbroadcastmanager:localbroadcastmanager:1.0.0")
 
     // photos
-    implementation("androidx.exifinterface:exifinterface:1.3.0")
+    implementation("androidx.exifinterface:exifinterface:1.3.2")
 
     // Kotlin
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlinVersion")
