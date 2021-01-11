@@ -147,7 +147,7 @@ dependencies {
     // finding a name for a feature without a name tag
     implementation("de.westnordost:osmfeatures-android:1.1")
     // talking with the OSM API
-    implementation("de.westnordost:osmapi-overpass:1.1")
+    implementation("de.westnordost:osmapi-overpass:1.3")
     implementation("de.westnordost:osmapi-map:1.2")
     implementation("de.westnordost:osmapi-changesets:1.2")
     implementation("de.westnordost:osmapi-notes:1.1")
