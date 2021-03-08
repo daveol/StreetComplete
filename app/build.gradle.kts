@@ -96,7 +96,7 @@ configurations {
 }
 
 dependencies {
-    val kotlinVersion = "1.4.10"
+    val kotlinVersion = "1.4.31"
     val mockitoVersion = "2.28.2"
     val kotlinxVersion = "1.3.8"
     val daggerVersion = "2.14.1"
